@@ -1,0 +1,8 @@
+{
+  "mattermost": {
+    "server_url": "https://chat.palet.app/api/v4/posts",
+    "bot_token": "",
+    "channel_id": "",
+    "channel_notification": "@channel"
+  }
+}
