@@ -1,11 +1,11 @@
 Endpoint Url,Every x Minute,Tag Name
-https://genesis-node-1.palet.global/v0.1.0/healthcheck,10,genesis-node-1
-https://genesis-node-2.palet.global/v0.1.0/healthcheck,10,genesis-node-2
-https://eve-node-1.palet.global/v0.1.0/healthcheck,10,eve-node-1
-https://eve-node-2.palet.global/v0.1.0/healthcheck,10,eve-node-2
-https://lilith-node-1.palet.global/v0.1.0/healthcheck,10,lilith-node-1
-https://lilith-node-2.palet.global/v0.1.0/healthcheck,10,lilith-node-2
-https://lilith-node-3.palet.global/v0.1.0/healthcheck,10,lilith-node-3
-https://lilith-node-4.palet.global/v0.1.0/healthcheck,10,lilith-node-4
-https://lilith-node-5.palet.global/v0.1.0/healthcheck,10,lilith-node-5
-https://lilith-node-6.palet.global/v0.1.0/healthcheck,10,lilith-node-6
+https://genesis-node-1.palet.global/v1/healthcheck,10,genesis-node-1
+https://genesis-node-2.palet.global/v1/healthcheck,10,genesis-node-2
+https://eve-node-1.palet.global/v1/healthcheck,10,eve-node-1
+https://eve-node-2.palet.global/v1/healthcheck,10,eve-node-2
+https://lilith-node-1.palet.global/v1/healthcheck,10,lilith-node-1
+https://lilith-node-2.palet.global/v1/healthcheck,10,lilith-node-2
+https://lilith-node-3.palet.global/v1/healthcheck,10,lilith-node-3
+https://lilith-node-4.palet.global/v1/healthcheck,10,lilith-node-4
+https://lilith-node-5.palet.global/v1/healthcheck,10,lilith-node-5
+https://lilith-node-6.palet.global/v1/healthcheck,10,lilith-node-6
