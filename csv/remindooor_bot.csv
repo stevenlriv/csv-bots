@@ -1,10 +1,4 @@
 Day,Time,Time Zone,Message,Tag
-Monday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
-Tuesday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
-Wednesday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
-Thursday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
-Friday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
-Saturday,10:00,America/Puerto_Rico,"GM! It's 10 AM AST, lets get working.",daily-reminder
 Monday,17:55,America/Puerto_Rico,"Monday, 6:00 PM AST. Meet: [https://meet.google.com/iih-dbyi-xxy](https://meet.google.com/iih-dbyi-xxy)",monday-evening
 Wednesday,17:55,America/Puerto_Rico,"It's Wednesday, 6:00 PM AST. Time for a midweek update! Share them in the appropiate chat. Lets go!",wednesday-midday
 Friday,17:00,America/Puerto_Rico,"Take the last hour of your work week to prepare and submit your scopes for next week in your Task Manager!",scope-reminder
